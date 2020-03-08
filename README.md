@@ -1,2 +1,2 @@
-# express.generator.ts (Pending)
+# express.generator.ts
 Modify express-generator Node.js to TypeScript
